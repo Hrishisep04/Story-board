@@ -1,0 +1,1 @@
+Writing your own application that requires access to other Mailchimp users' accounts?
